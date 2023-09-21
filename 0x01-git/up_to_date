@@ -1,0 +1,4 @@
+git fetch
+git pull
+
+there are the commands which we use to download any changes from remote repo to the local one!
